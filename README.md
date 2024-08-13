@@ -33,3 +33,12 @@ You can install the required packages using the following command:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
+
+## Results
+The logistic regression model achieves an accuracy of approximately 97% on the test set, effectively classifying the iris species based on the provided measurements.
+
+## Visualizations
+The project includes visualizations for data exploration, including:
+
+Pairplot of features colored by species
+Confusion matrix to evaluate model predictions
